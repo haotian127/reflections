@@ -11,17 +11,17 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    forks copy from website to website and it contains reference. git clones copy from website to local, also from local to local.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It helps to play safe and gives a benchmark of merging files. If the local master and the github master are so different, the origin/master could help us track the original file.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I guess people have to collaborate manually. Copy and paste all the works from others and then check wheather they are compatible. It is straight forward but the work is tedious and very easily to involve human errors.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
